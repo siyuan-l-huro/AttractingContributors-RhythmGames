@@ -21,3 +21,4 @@ To complete the assignment, please do the following:
   - Why you choose
 
 # List of board game you like
+1.Shogi
