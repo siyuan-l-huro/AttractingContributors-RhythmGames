@@ -17,8 +17,15 @@ To complete the assignment, please do the following:
 
 # Example. 
 - Chess
-  - Your id (like satoshi-2000)
-  - Why you choose
 
 # List of board game you like
 1. Texas hold 'em (It offers an exciting and strategic blend of skill, psychology, and chance).
+2. Shogi
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
