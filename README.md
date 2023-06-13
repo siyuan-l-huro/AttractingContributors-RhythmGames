@@ -19,9 +19,9 @@ To complete the assignment, please do the following:
 - Chess
 
 # List of board game you like
-1. Texas hold 'em (It offers an exciting and strategic blend of skill, psychology, and chance).
-2. Shogi
-3. 
+1. gomoku
+2. Texas hold 'em (It offers an exciting and strategic blend of skill, psychology, and chance).
+3. Shogi 
 4. 
 5. 
 6. 
