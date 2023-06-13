@@ -19,7 +19,7 @@ To complete the assignment, please do the following:
 - Chess
 
 # List of board game you like
-1.
+1.gomoku
 2.
 3.
 4.
