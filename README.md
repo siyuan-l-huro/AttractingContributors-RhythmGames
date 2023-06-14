@@ -23,7 +23,7 @@ To complete the assignment, please do the following:
 2. Texas hold 'em (It offers an exciting and strategic blend of skill, psychology, and chance).
 3. Shogi 
 4. UNO
-5. 
+5. othello
 6. 
 7. 
 8. 
