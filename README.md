@@ -22,9 +22,9 @@ To complete the assignment, please do the following:
 1. gomoku
 2. Texas hold 'em (It offers an exciting and strategic blend of skill, psychology, and chance).
 3. Shogi 
-4.Chess 
-5. 
-6. 
+4. Chess 
+5. UNO
+6. othello 
 7. 
 8. 
 9. 
