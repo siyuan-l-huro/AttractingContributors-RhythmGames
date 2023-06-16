@@ -16,8 +16,16 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+- Chess
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
-
-# List of Hobby
+# List of board game you like
+1. gomoku
+2. Texas hold 'em (It offers an exciting and strategic blend of skill, psychology, and chance).
+3. Shogi 
+4. Chess 
+5. UNO
+6. othello 
+7. COYOTE
+8. Cluedo
+9. 
+10. 
