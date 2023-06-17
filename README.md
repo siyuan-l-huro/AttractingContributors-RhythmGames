@@ -26,6 +26,6 @@ To complete the assignment, please do the following:
 5. UNO
 6. othello 
 7. COYOTE
-8. 
+8. Cluedo
 9. 
 10. 
