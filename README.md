@@ -37,3 +37,5 @@ Also, it's welcomed to send me some photos or videos of your played games.
 (Arcade) -- maimai DX (example)
 
 (Arcade) -- SOUND VOLTEX
+
+(Smart phone app) -- Cytus
