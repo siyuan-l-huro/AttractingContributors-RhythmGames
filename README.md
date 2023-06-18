@@ -35,5 +35,4 @@ Also, it's welcomed to send me some photos or videos of your played games.
 
 # List of Rhythm Games
 (Arcade) -- maimai DX (example)
-
-(Write in this line)
+(Arcade) -- SOUND VOLTEX
