@@ -27,5 +27,5 @@ To complete the assignment, please do the following:
 6. othello 
 7. COYOTE
 8. Cluedo
-9. 
+9. Riichi Mahjong
 10. 
