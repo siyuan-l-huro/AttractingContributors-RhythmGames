@@ -17,3 +17,4 @@ Please tell us your favorite IDOL
 * Pass Code
 * 765 MILLION ALLSTARS
 * 日向坂46
+* AKB48
