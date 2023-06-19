@@ -46,4 +46,4 @@ Also, it's welcomed to send me some photos or videos of your played games.
 
 (PC) -- OSU
 
-（Arcade) -- CHUNITHM
+(Arcade) -- CHUNITHM
