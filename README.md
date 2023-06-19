@@ -43,3 +43,5 @@ Also, it's welcomed to send me some photos or videos of your played games.
 (Smart phone app) -- Cytus
 
 (Smart phone app) -- Genshin Impact (in some events)
+
+(Arcade) -- CHUNITHM
