@@ -44,4 +44,4 @@ Also, it's welcomed to send me some photos or videos of your played games.
 
 (Smart phone app) -- Genshin Impact (in some events)
 
-OSU
+(PC) -- OSU
