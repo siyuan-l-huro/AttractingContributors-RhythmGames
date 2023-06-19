@@ -41,3 +41,5 @@ Also, it's welcomed to send me some photos or videos of your played games.
 (Console) -- PATAPON
 
 (Smart phone app) -- Cytus
+
+(Smart phone app) -- Genshin Impact
