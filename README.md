@@ -48,4 +48,6 @@ Also, it's welcomed to send me some photos or videos of your played games.
 
 (Arcade) -- CHUNITHM
 
+(Smart phone app) -- THE iDOLM@STER Million Live! Theater Days
+
 (Console) -- Persona 4: Dancing All Night
