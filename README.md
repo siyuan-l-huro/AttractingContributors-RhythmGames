@@ -39,3 +39,5 @@ Also, it's welcomed to send me some photos or videos of your played games.
 (Arcade) -- SOUND VOLTEX
 
 (Console) -- PATAPON
+
+(Smart phone app) -- Cytus
