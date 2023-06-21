@@ -53,3 +53,6 @@ Also, it's welcomed to send me some photos or videos of your played games.
 (Console) -- Persona 4: Dancing All Night
 
 (Arcade) -- O.N.G.E.K.I.
+
+(Smart phone app) -- THE IDOLM@STER Cinderella Girls Starlight Stage
+
