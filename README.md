@@ -54,5 +54,6 @@ Also, it's welcomed to send me some photos or videos of your played games.
 
 (Arcade) -- O.N.G.E.K.I.
 
-(Smart phone app) -- THE IDOLM@STER Cinderella Girls Starlight Stage
+（Arcade) -- GROOVE COASTER
 
+(Smart phone app) -- THE IDOLM@STER Cinderella Girls Starlight Stage
